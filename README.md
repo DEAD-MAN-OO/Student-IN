@@ -1,1 +1,1 @@
-Use Your Config In fbconfig file
+Use Your Config In fb.js file
